@@ -1,3 +1,7 @@
+Open in colab to view interactive plots
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/netflix-eda/blob/main/notebooks/Netflix_EDA.ipynb)
+
 Netflix Movies & TV Shows EDA (2023)
 
 📌 Overview
